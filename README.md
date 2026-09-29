@@ -112,3 +112,4 @@ medicare-config-repo/
 ## Bài tập liên quan
 
 - **Ex05**: Giao tiếp inter-service bằng RestTemplate + @LoadBalanced (trong folder Ex05)
+a
